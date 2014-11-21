@@ -1,12 +1,14 @@
 # Afterglow for Console 2
 
-> A color scheme for [Console 2](http://sourceforge.net/projects/console/) based on the Sublime Text theme of the same name.
+> A color scheme for [Console 2](http://sourceforge.net/projects/console/) based
+on the Sublime Text theme of the same name.
 
 ![Color Table Screenshot](/screenshot.png)
 
 ## Installation
 
-* Go to your Console install direction.
+* Go to your Console install directory, there should be a `console.xml` file at
+the root of it.
 * Replace the contents of the `/settings/console/colors` section of your `console.xml`
 file with the contents of this projects `console-colors.xml` file.
 
