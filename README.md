@@ -1,4 +1,4 @@
-# Console 2 Color Scheme - Afterglow
+# Afterglow for Console 2
 
 > A color scheme for [Console 2](http://sourceforge.net/projects/console/) based on the Sublime Text theme of the same name.
 
