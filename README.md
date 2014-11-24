@@ -2,8 +2,8 @@
 
 > A color scheme for [Console 2](http://sourceforge.net/projects/console/) based
 on the Sublime Text theme of the same name.
-
-![Color Table Screenshot](/screenshot.png)
+>
+>![Color Table Screenshot](/screenshot.png)
 
 ## Installation
 
